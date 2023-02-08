@@ -1,0 +1,7 @@
+
+// Work in process
+There are still some bugs and Errors here and there but will rectify them soon 
+Look if you can fix them
+
+SQL3 Lite in backend and Tkinter as Frontend of Application using Python
+There are Errors in backed of Application
